@@ -39,4 +39,5 @@ We, with machine learning and deep learning techniques, tried to predict the EPS
 
 # Results
 -After merging with individual analysts estimates of past periods, the average percentile beat is 28.829 percentile
+
 -Before merging with individual analysts estimates of past periods, the average percentile beat is 27.387 percentile 
